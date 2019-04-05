@@ -1,25 +1,4 @@
-Criterios:
-- Precio
-- Tipo de licencia
-- Relevancia en el sector
-- Formaci髇
-- Facilidad de uso
-- Intuitividad
-- Escalabilidad
-- Funcionalidades complementarias
-- Sistemas operativos
-- Garant韆
-- Periodo de prueba
-- Funcionalidad en la nube
-- Madurez y versiones 
-- Atenci髇 al cliente
-- Seguridad
-- "que co駉 hacen estas mierdas"
-- Medici髇 del rendimiento y el uso
-- Ambito de uso
-- Integraci髇
-- Configuraci髇 propia
-- Puntos fuertes
+
 
 Categorias:
 
@@ -27,28 +6,28 @@ Categorias:
 	- Precio - Texto libre
 	- Tipo de licencia - Texto libre
 	- Relevancia en el sector - Texto libre
-	- Formaci髇 - Texto libre
+	- Formaci贸n - Texto libre
 	- Ambito de uso - texto libre
- 	- integraci髇 - 1/10
+ 	- integraci贸n - 1/10
 
 - Usabilidad:
 	- FAcilidad de uso - Numerico
 	- Intuituvidad - Numerico
 	- Sistemas operativos - 3/3
 	- Accesibilidad - Texto libre
-	- Configuraci髇 propia - texto libre 
+	- Configuraci贸n propia - texto libre 
 
 - Funcionalidad:
 	- Escalabilidad - Texto libre
 	- Funcionalidades complementarias - Teto libre
 	- Periodo de prueba - bool
 	- Funcionalidad en la nube - bool
-	- Medici髇 del rendimiento - 1/10 
+	- Medici贸n del rendimiento - 1/10 
 	- Puntos fuertes - texto libre
 
 
 - Soporte:
- 	- Garant韆 - booleano
+ 	- Garant铆a - booleano
 	- Madurez y versiones - Texto libre
-	- Atenci髇 al cliente - texto libre 
+	- Atenci贸n al cliente - texto libre 
 	- Seguridad - 1/10
