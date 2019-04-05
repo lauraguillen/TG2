@@ -1,0 +1,17 @@
+3.2.3 Criterio B.3: Configuración propia
+Descripción: Grado de adaptación de la tecnología, sus interfaces y funcionalidades a necesidades y preferencias concretas. 	
+Valoración: Texto libre.
+
+3.2.4 Criterio B.4: Sistema intuitivo
+Descripción: Grado en el que el sistema en cuestión presenta funcionalidades fácilmente accesibles basándose en acciones intuitivas de los usuarios. Se valora como 1 un sistema con un manejo engorros, y con un 10 aquellas herramientas que presenten unas funciones de fácil comprensión por el usuario.
+Valoración: Numérico escala 1-10
+
+3.2.5 Criterio B.5: Facilidad de uso
+Descripción: Rapidez y facilidad de comprensión de las mecánicas básicas ligadas al uso de una determinada herramienta. Se valora como 1 una herramienta en la que el dominio de la misma se presenta como un proceso arduo, mientras que el 10 correspondería a un sistema de manejabilidad accesible para cualquier tipo de usuario.
+ Valoración: Numérico escala 1-10 
+
+3.3 Categoría C: Funcionalidad
+
+3.3.1 Criterio C.1: Periodo de prueba
+Descripción: Existencia de un periodo de prueba gratuito a modo de iniciación en el manejo de las herramientas.
+Valoración: Booleano (Sí/No)
